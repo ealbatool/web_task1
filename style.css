@@ -1,0 +1,49 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fce4ec; /* light pink */
+  color: #4a148c; /* deep purple text */
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #f8bbd0; /* soft pink */
+  color: #4a148c;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+section {
+  background-color: #f3e5f5; /* light purple */
+  margin: 1rem auto;
+  padding: 1.5rem;
+  max-width: 800px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+h1, h2 {
+  margin-top: 0;
+}
+
+h2 {
+  color: #6a1b9a; /* purple accent */
+}
+
+a {
+  color: #880e4f; /* bold pink */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  background-color: #ce93d8; /* soft purple */
+  color: #4a148c;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+  font-size: 0.9rem;
+}
